@@ -69,8 +69,8 @@ export default Component.extend({
     // we will update the chart here
 
 
-    const pusher = new Pusher('734ff5d8f1e5ed1dd419', { // update your APP_KEY
-        cluster: 'us2',
+    const pusher = new Pusher('YOUR_APP_KEY', { // update your APP_KEY
+        cluster: 'CLUSTER',
         encrypted: true
       })
       
