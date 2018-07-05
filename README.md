@@ -3,6 +3,8 @@
 ## Build a realtime interactive graph with Ember.js and Pusher
 This project contains the source code for a realtime interactive graph built with Ember.js and Pusher.
 
+[View tutorial](https://pusher.com/tutorials/live-graph-emberjs)
+
 Take a look at the image below.
 
 
